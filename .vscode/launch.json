@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/LinkedList/bin/Debug/net8.0/LinkedList.dll",
+            "program": "${workspaceFolder}/Queues/bin/Debug/net8.0/Queues.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/LinkedList",
+            "cwd": "${workspaceFolder}/Queues",
             "console": "internalConsole",
             "stopAtEntry": false
         },
