@@ -1,0 +1,15 @@
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfoInputs.cache
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.AssemblyInfo.cs
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.csproj.CoreCompileInputs.cache
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.sourcelink.json
+/workspaces/Data-Structures/TaskManager/bin/Debug/net8.0/TaskManager
+/workspaces/Data-Structures/TaskManager/bin/Debug/net8.0/TaskManager.deps.json
+/workspaces/Data-Structures/TaskManager/bin/Debug/net8.0/TaskManager.runtimeconfig.json
+/workspaces/Data-Structures/TaskManager/bin/Debug/net8.0/TaskManager.dll
+/workspaces/Data-Structures/TaskManager/bin/Debug/net8.0/TaskManager.pdb
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.dll
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/refint/TaskManager.dll
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.pdb
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/TaskManager.genruntimeconfig.cache
+/workspaces/Data-Structures/TaskManager/obj/Debug/net8.0/ref/TaskManager.dll

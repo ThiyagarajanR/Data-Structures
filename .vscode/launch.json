@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Queues/bin/Debug/net8.0/Queues.dll",
+            "program": "${workspaceFolder}/TaskManager/bin/Debug/net8.0/TaskManager.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Queues",
+            "cwd": "${workspaceFolder}/TaskManager",
             "console": "internalConsole",
             "stopAtEntry": false
         },
