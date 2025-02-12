@@ -1,0 +1,15 @@
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/workspaces/Data-Structures/Arrays/bin/Debug/net8.0/Arrays
+/workspaces/Data-Structures/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/workspaces/Data-Structures/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/workspaces/Data-Structures/Arrays/bin/Debug/net8.0/Arrays.dll
+/workspaces/Data-Structures/Arrays/bin/Debug/net8.0/Arrays.pdb
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.dll
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.pdb
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/workspaces/Data-Structures/Arrays/obj/Debug/net8.0/ref/Arrays.dll

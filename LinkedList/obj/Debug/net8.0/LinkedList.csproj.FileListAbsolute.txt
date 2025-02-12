@@ -1,0 +1,15 @@
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfoInputs.cache
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfo.cs
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.csproj.CoreCompileInputs.cache
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.sourcelink.json
+/workspaces/Data-Structures/LinkedList/bin/Debug/net8.0/LinkedList
+/workspaces/Data-Structures/LinkedList/bin/Debug/net8.0/LinkedList.deps.json
+/workspaces/Data-Structures/LinkedList/bin/Debug/net8.0/LinkedList.runtimeconfig.json
+/workspaces/Data-Structures/LinkedList/bin/Debug/net8.0/LinkedList.dll
+/workspaces/Data-Structures/LinkedList/bin/Debug/net8.0/LinkedList.pdb
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.dll
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/refint/LinkedList.dll
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.pdb
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/LinkedList.genruntimeconfig.cache
+/workspaces/Data-Structures/LinkedList/obj/Debug/net8.0/ref/LinkedList.dll

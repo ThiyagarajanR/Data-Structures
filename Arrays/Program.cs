@@ -17,13 +17,13 @@ public class BookPriceAverage
         Console.WriteLine($"The average price of the books is {averageBookPrice}");
     }
 
-    void GetSize(out int size)
+    static void GetSize(out int size)
     {
         Console.WriteLine("Enter the size of the array:");
         size = int.Parse(Console.ReadLine()); // Correct: Array size must be an integer
     }
 
-    void GetElements(decimal[] bookPrices, int size)
+    static void GetElements(decimal[] bookPrices, int size)
     {
         for (int i = 0; i < size; i++)
         {
@@ -32,7 +32,7 @@ public class BookPriceAverage
         }
     }
 
-    void GetAveragePrice(decimal[] bookPrices, int size, out decimal averageBookPrice)
+    static void GetAveragePrice(decimal[] bookPrices, int size, out decimal averageBookPrice)
     {
         decimal decimalSum = 0.0m;
         foreach (decimal price in bookPrices)
